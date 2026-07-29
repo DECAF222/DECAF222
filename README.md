@@ -100,8 +100,8 @@
 
   <br><br>
 
-  <!-- Visitor Counter -->
-  <img src="https://visitcount.itsvg.in/api?id=nitish1705&icon=0&color=6" alt="Profile Views" />
+  <!-- Reliable Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=nitish1705&color=F54A2A&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <!-- WAVE FOOTER -->

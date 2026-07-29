@@ -1,69 +1,85 @@
-<h1 align="center">
-  Hey there 👋 I'm <span style="color:#4e9cff;">Nitish</span>
-</h1>
+<!-- Animated Gradient Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=Hi,%20I'm%20Nitish!%20%F0%9F%91%8B&fontSize=70&fontAlignY=35&animation=twinkling&desc=iOS%20Engineer%20%7C%20Security%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=25&color=4E9CFF&width=650&lines=Beginner+Developer+%7C+SwiftUI+Explorer;I+Build+Apps+By+Breaking+Them+First" />
-</p>
+<!-- Dynamic Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&pause=1000&color=F54A2A&center=true&vCenter=true&width=800&height=70&lines=Building+MultiClips+for+macOS+🍏;Crushing+Algorithms+in+Java+🏆;Hunting+Vulnerabilities+in+Web+Apps+🛡️;Targeting+GSoC+%26+Swift+Student+Challenge+🚀;Eat.+Sleep.+Code.+Repeat.+🔄" alt="Typing SVG" />
+</div>
 
----
+<br>
 
-# 💫 About Me:
-🇮🇳 Student developer who learns best by **building, breaking, and rebuilding** apps stronger  
-💰 Currently working on a **Financial App** & 🍳 **Cooking Diary**  
-🤜🤛 Open to collaborating on **small, fun SwiftUI projects**  
-🤝 Looking to improve **app architecture & clean state management**  
-🌱 Actively learning **SwiftUI, SwiftData, Flutter**  
-💬 Ask me about **app ideas, UI flows, and rapid prototyping**  
-⚡ Fun fact: I don’t fear bugs — I hunt them 🔍  
+<!-- Animated Intro -->
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" /> The Architecture Behind The Dev</h2>
+  <p>
+    <em>Computer Science Engineering Student (Class of '27)</em> <br>
+    I thrive on building fluid native applications, breaking systems to understand their security, and optimizing algorithms until they run flawlessly. <br>I don’t just write code; <b>I engineer experiences.</b>
+  </p>
+</div>
 
-🧠 **Primary Languages:** **Java, Swift (SwiftUI & SwiftData), C, Python**
+<br>
 
----
+<!-- Beautiful Interactive Skill Icons -->
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> Tech Arsenal</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,java,c,py,spring,docker,jenkins,ansible,mysql,firebase,figma,github,apple&perline=7&theme=dark" alt="Skill Icons" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitish_1705_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitish--m)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Certain_Reference381)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ninja_17_05)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MNITISH1705)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mnitish1705@gmail.com)
-
----
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftData](https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=apple&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nitish1705&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nitish1705&theme=ayu-mirage&hide_border=false)
-<br/>
+<!-- Two-Column Stats & Trophies -->
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> Developer Metrics</h2>
+</div>
 
-### 📊 Languages Used Across Projects
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish1705&theme=ayu-mirage&layout=compact)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=nitish1705&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish1705&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitish1705&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nitish1705&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- The "Stare For Minutes" Contribution Snake Animation -->
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" /> Contribution Activity</h2>
+  <p><em>Watch the snake eat my contribution graph!</em></p>
+  
+  <!-- Note: To make this snake actually move on your profile, you will need to set up the github-readme-snake GitHub Action in a workflow file. Once setup, it generates this SVG! -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitish1705/nitish1705/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitish1705/nitish1705/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nitish1705/nitish1705/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=nitish1705&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Floating Socials Footer -->
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect</h2>
+  
+  <a href="https://linkedin.com/in/nitish--m"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/MNITISH1705"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/nitish_1705_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:mnitish1705@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  
+  <br><br>
+  
+  <img src="https://visitcount.itsvg.in/api?id=nitish1705&icon=0&color=6" alt="Profile Views" />
+</div>
